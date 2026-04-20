@@ -9,8 +9,10 @@ public class Main {
         System.out.println("Ano de lancamento: " + anoDeLancamento);
         boolean incluidoNoPlano = true;
         System.out.println("Incluido no plano: " + incluidoNoPlano);
-        double notaDoFilme = 9.8;
-        System.out.println("Nota do Filme: " + notaDoFilme);
+
+       //double notaDoFilme = 9.8;
+       //System.out.println("Nota do Filme: " + notaDoFilme);
+
         //Média calculada pelas vozes da minha cabeça
         double media = (9.8 + 6.0 + 5) /3;
         System.out.println("Media: " + media);
